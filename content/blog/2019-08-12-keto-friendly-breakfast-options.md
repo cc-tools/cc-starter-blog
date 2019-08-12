@@ -1,7 +1,8 @@
 ---
 title: Keto Friendly Breakfast Options
-date: 2019-08-12T15:01:18.684Z
+date: 2019-07-15T15:01:18Z
 draft: false
+
 ---
 Here's my journey into Ketogenic dieting, for those that are unfamiliar with Keto , I go a little further into what it is all about, this is part 1 of 3 where I break down my daily routine and the foods I intake to help me stay strong on my Keto journey!
 
@@ -40,4 +41,3 @@ Stay tune and stay tone!
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=commoncentsan-20&language=en_US&marketplace=amazon&region=US&placement=B000NBWO1E&asins=B000NBWO1E&linkId=e452d5f806268b7bf83a27c5a346b3c9&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=commoncentsan-20&language=en_US&marketplace=amazon&region=US&placement=B078TPJ2R6&asins=B078TPJ2R6&linkId=679e0475ec7bd758b28e851caeeebe60&show_border=true&link_opens_in_new_window=true"></iframe>
-
