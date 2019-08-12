@@ -15,5 +15,5 @@ site:
   pagination:
     max: 5
     path: page
-  title: Starter blog
+  title: Dr. Nick's Blog
 theme: hyde
