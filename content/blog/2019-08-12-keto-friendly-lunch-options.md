@@ -1,7 +1,8 @@
 ---
 title: Keto Friendly Lunch Options
-date: 2019-08-12T17:22:14.014Z
+date: 2019-07-22T17:22:14Z
 draft: false
+
 ---
 Continuing my journey for Keto for lunch is one of the toughest choices. When people go out for lunch there are so many carb packed choices everywhere you look whether you decide to go out for lunch or make it yourself. A good choice for when you go out and want food is to have a sub in a tub or to try and find some salads but, if you really want to save money and make your own lunch then you can make spaghetti using LIVIVA Shirataki Spaghetti. 
 
