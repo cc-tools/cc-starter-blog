@@ -17,4 +17,5 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/blog/old-spice-product-review.md
 - content/blog/st-ives-product-review.md
