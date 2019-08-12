@@ -25,7 +25,6 @@ Its a really gentle type of exfoliator that smells of Pink Lemonade and Mandarin
 
 I hope that these few suggestions will help you on your journey towards a healthier you. Please be sure to subscribe to my youtube channel : <a href="https://www.youtube.com/channel/UCsHqu8IYwBjNLYk2MrNIxuw">Dr. Nick</a>, and follow me as I continue to provide you valuable insight into new trending health topics.
 
-P.S.  - I will be covering dinner upcoming post !
 
 Stay tune and stay tone!
 
