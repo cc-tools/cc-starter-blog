@@ -1,7 +1,8 @@
 ---
 title: Keto Friendly Dinner Options
-date: 2019-08-12T17:36:36.258Z
+date: 2019-07-29T17:36:36Z
 draft: false
+
 ---
 The final and my favorite part of the keto diet is getting to dinner. Sitting at home and making a nutritious keto friendly dinner. There's so many potential options for like eating burgers, making pastas, etc. My personal favorite is to make burgers for dinner. They always taste so great and I can make them for guest or my family too. Buns tend to have a decent amount of carbs so theirs a few tricks such as not using a bun, using lettuce as an alternative, or using Smart Buns instead.
 
